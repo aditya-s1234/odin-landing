@@ -1,0 +1,23 @@
+.outerhead {
+    display: flex;
+    justify-content: space-around;
+    gap: 480px;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+.innerhead {
+    display: flex;
+    gap: 40px;
+}
+
+.log {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.links {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
