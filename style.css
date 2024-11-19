@@ -1,9 +1,12 @@
+
+/* HEADER */
 .outerhead {
     display: flex;
     justify-content: space-around;
     gap: 480px;
     align-items: center;
     background-color: #1F2937;
+    padding-bottom: 30px;
 }
 
 .innerhead {
@@ -20,4 +23,23 @@
     text-decoration: none;
     font-size: 18px;
     color: #E5E7EB;
+}
+
+/* FIRST SECTION */
+.first_section {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-evenly;
+    padding-bottom: 40px;
+    align-items: center;
+}
+
+.innerfirst {
+    max-width: 400px;
+    padding: -40px;
+}
+
+.big {
+    font-size: 48px;
+    font-weight: 900;
 }
