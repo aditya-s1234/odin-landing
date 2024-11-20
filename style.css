@@ -66,3 +66,49 @@
 .info {
     padding: 20px;
 }
+
+/* THIRD SECTION */
+.third_section {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+.quote {
+    max-width: 700px;
+
+}
+
+.author {
+    margin-left: auto;
+    padding-right: 600px;
+
+}
+
+/* FOURTH SECTION */
+.fourth_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    
+}
+
+.wordy {
+    background-color: blue;
+    display: flex;
+    gap: 30px;
+    padding: 40px;
+    align-items: center;
+}
+
+.help {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 300px;
+}
